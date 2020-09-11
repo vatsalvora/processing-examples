@@ -1,0 +1,26 @@
+{
+  "name": "processing-examples",
+  "version": "1.0.0",
+  "description": "Getting Started with Processing JS",
+  "main": "sketch.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsalvora/processing-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vatsalvora/processing-examples/issues"
+  },
+  "homepage": "https://github.com/vatsalvora/processing-examples#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
