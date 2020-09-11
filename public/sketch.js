@@ -5,6 +5,6 @@ function setup() {
 
 function draw() {
 	textSize(32);
-	text('word', 10, 30);
+	text('Hello World!', 10, 30);
 	fill(0, 102, 153);
 }
