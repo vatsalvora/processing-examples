@@ -6,5 +6,10 @@ Background music from PlayOnLoop.com Licensed under Creative Commons by Attribut
 
 Game Images from FreeSvg.org Licensed under Creative Commons by Attribution 4.0
 
+Please Download this Chrome Extension to run the code:
+
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en
+
+
 More Instructions: https://p5js.org/get-started/
 
