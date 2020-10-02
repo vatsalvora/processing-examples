@@ -102,9 +102,9 @@ function draw() {
 		makhan.position.x = mX;
 		makhan.position.y = mY;
 	}
+
 	
 	checkBounds(krishna);
     
 	drawSprites();
 }
-
